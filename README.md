@@ -89,28 +89,6 @@ java -cp ".;ojdbc11.jar" Main
 
 ---
 
-🧩 Folder Structure
-
-online-quiz-system/
-│
-├── Main.java
-├── db/
-│   └── DBConnection.java
-├── user/
-│   ├── UserLogin.java
-│   ├── UserRegister.java
-│   └── QuizPanel.java
-├── admin/
-│   ├── AdminLogin.java
-│   └── AdminDashboard.java
-├── util/
-│   └── Question.java
-├── ojdbc11.jar
-└── README.md
-
-
----
-
 🔑 Default Credentials
 
 Admin:
